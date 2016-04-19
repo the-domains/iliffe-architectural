@@ -1,0 +1,28 @@
+name: ILIFFE ARCHITECTURAL
+favicon: null
+layout_spectrum: 0.44989089551381767
+typography_spectrum: 0.6441011831630021
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.04385269503109157
+  lightness: 0.5853854457382113
+  saturation: 0.28589244512841105
+  rhythmicContrast: 0.7337997849099338
+purpose: []
