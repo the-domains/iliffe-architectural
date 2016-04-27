@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[ILIFFE ARCHITECTURAL]]></title>
         <description><![CDATA[ILIFFE ARCHITECTURAL]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/iliffe-architectural/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Apr 2016 15:45:54 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 27 Apr 2016 21:00:54 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/iliffe-architectural/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e52dc36e-b490-4fb8-b4b1-9f32287b13d2.jpg">]]></description>
-            <link>undefinedwest-coast-modern-a-simple-and-compact-design-of-around-1000/index.html</link>
+            <link>https://thegrid.ai/iliffe-architectural/west-coast-modern-a-simple-and-compact-design-of-around-1000/index.html</link>
             <guid isPermaLink="false">05389db5-6ce9-4aa1-bb86-4bb4ba746cf7</guid>
-            <pubDate>Tue, 19 Apr 2016 15:45:18 GMT</pubDate>
+            <pubDate>Wed, 27 Apr 2016 21:00:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
