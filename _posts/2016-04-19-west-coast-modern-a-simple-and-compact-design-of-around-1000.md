@@ -3,11 +3,10 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
 keywords: []
 description: WEST COAST MODERN A SIMPLE AND COMPACT DESIGN OF AROUND 1000 SQ FT
-datePublished: '2016-04-19T15:45:18.378Z'
-dateModified: '2016-04-19T15:44:29.980Z'
+datePublished: '2016-04-27T21:00:52.425Z'
+dateModified: '2016-04-27T21:00:50.790Z'
 title: ''
 author: []
 authors: []
@@ -16,6 +15,7 @@ publisher:
   domain: null
   url: null
   favicon: null
+starred: false
 sourcePath: _posts/2016-04-19-west-coast-modern-a-simple-and-compact-design-of-around-1000.md
 published: true
 url: west-coast-modern-a-simple-and-compact-design-of-around-1000/index.html
